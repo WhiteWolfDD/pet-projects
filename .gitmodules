@@ -1,0 +1,15 @@
+[submodule "EsoSystem"]
+	path = EsoSystem
+	url = https://github.com/WhiteWolfDD/EsoSystem
+[submodule "Articles_RestAPI"]
+	path = Articles_RestAPI
+	url = https://github.com/WhiteWolfDD/Articles_RestAPI
+[submodule "flymessenger-desktop"]
+	path = flymessenger/flymessenger-desktop
+	url = https://github.com/WhiteWolfDD/FlyMessenger-desktopclient
+[submodule "flymessenger-web"]
+	path = flymessenger/flymessenger-web
+	url = https://github.com/Real-Time-Messenger/FlyMessenger-react
+[submodule "flymessenger-server"]
+	path = flymessenger/flymessenger-server
+	url = https://github.com/Real-Time-Messenger/FlyMessenger-server
